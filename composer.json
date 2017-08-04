@@ -1,0 +1,10 @@
+{
+    "name": "gdmedia/symbiote-gridfieldextensions-shim",
+    "description": "Metadata package to workaround abandoned package warnings",
+    "require": {
+        "symbiote/silverstripe-gridfieldextensions": "^1.4"
+    },
+    "replace": {
+        "silverstripe-australia/gridfieldextensions": "^1.4"
+    }
+}
